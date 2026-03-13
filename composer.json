@@ -1,17 +1,17 @@
 {
-  "name": "lb-hounslow/bartec",
+  "name": "wearechicken/bartec",
   "description": "A library for the Bartec Collective API SOAP Web Service",
   "type": "library",
   "license": "proprietary",
   "require": {
-    "php": "^7.2",
+    "php": ">=7.2",
     "ext-json": "*",
     "ext-soap": "*",
     "psr/cache": "^1.0"
   },
   "autoload": {
     "psr-4": {
-      "LBHounslow\\Bartec\\": "src/"
+      "wearechicken\\Bartec\\": "src/"
     }
   },
   "autoload-dev": {
