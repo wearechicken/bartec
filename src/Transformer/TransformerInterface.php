@@ -1,8 +1,8 @@
 <?php
 
-namespace LBHounslow\Bartec\Transformer;
+namespace wearechicken\Bartec\Transformer;
 
-use LBHounslow\Bartec\Exception\TransformationException;
+use wearechicken\Bartec\Exception\TransformationException;
 
 interface TransformerInterface
 {

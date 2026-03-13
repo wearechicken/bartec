@@ -1,9 +1,9 @@
 <?php
 
-namespace LBHounslow\Bartec\Client;
+namespace wearechicken\Bartec\Client;
 
-use LBHounslow\Bartec\Exception\SoapException;
-use LBHounslow\Bartec\Response\Response;
+use wearechicken\Bartec\Exception\SoapException;
+use wearechicken\Bartec\Response\Response;
 
 class Client
 {

@@ -2,7 +2,7 @@
 
 namespace Tests\Unit\Exception;
 
-use LBHounslow\Bartec\Exception\TransformationException;
+use wearechicken\Bartec\Exception\TransformationException;
 use Tests\Unit\BartecTestCase;
 
 class TransformationExceptionTest extends BartecTestCase

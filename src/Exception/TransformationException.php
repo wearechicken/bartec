@@ -1,6 +1,6 @@
 <?php
 
-namespace LBHounslow\Bartec\Exception;
+namespace wearechicken\Bartec\Exception;
 
 class TransformationException extends \Exception
 {

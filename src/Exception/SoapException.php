@@ -1,8 +1,8 @@
 <?php
 
-namespace LBHounslow\Bartec\Exception;
+namespace wearechicken\Bartec\Exception;
 
-use LBHounslow\Bartec\Response\Response;
+use wearechicken\Bartec\Response\Response;
 use Throwable;
 
 class SoapException extends \Exception

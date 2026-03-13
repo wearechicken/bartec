@@ -1,6 +1,6 @@
 <?php
 
-namespace LBHounslow\Bartec\Response;
+namespace wearechicken\Bartec\Response;
 
 class Response extends SoapResponse
 {

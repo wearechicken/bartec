@@ -2,11 +2,11 @@
 
 namespace Tests\Unit\Client;
 
-use LBHounslow\Bartec\Client\Client as BartecClient;
-use LBHounslow\Bartec\Client\SoapClient;
-use LBHounslow\Bartec\Exception\SoapException;
-use LBHounslow\Bartec\Response\Response;
-use LBHounslow\Bartec\Response\SoapResponse;
+use wearechicken\Bartec\Client\Client as BartecClient;
+use wearechicken\Bartec\Client\SoapClient;
+use wearechicken\Bartec\Exception\SoapException;
+use wearechicken\Bartec\Response\Response;
+use wearechicken\Bartec\Response\SoapResponse;
 use Tests\Unit\BartecTestCase;
 
 class ClientTest extends BartecTestCase

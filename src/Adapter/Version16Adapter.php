@@ -1,8 +1,8 @@
 <?php
 
-namespace LBHounslow\Bartec\Adapter;
+namespace wearechicken\Bartec\Adapter;
 
-use LBHounslow\Bartec\Enum\BartecServiceEnum;
+use wearechicken\Bartec\Enum\BartecServiceEnum;
 
 class Version16Adapter extends AbstractApiVersionAdapter
 {

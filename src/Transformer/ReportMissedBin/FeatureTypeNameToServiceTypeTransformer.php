@@ -1,9 +1,9 @@
 <?php
 
-namespace LBHounslow\Bartec\Transformer\ReportMissedBin;
+namespace wearechicken\Bartec\Transformer\ReportMissedBin;
 
-use LBHounslow\Bartec\Enum\BartecServiceEnum;
-use LBHounslow\Bartec\Transformer\TransformerInterface;
+use wearechicken\Bartec\Enum\BartecServiceEnum;
+use wearechicken\Bartec\Transformer\TransformerInterface;
 
 class FeatureTypeNameToServiceTypeTransformer implements TransformerInterface
 {

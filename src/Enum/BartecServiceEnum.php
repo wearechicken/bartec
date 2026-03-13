@@ -1,6 +1,6 @@
 <?php
 
-namespace LBHounslow\Bartec\Enum;
+namespace wearechicken\Bartec\Enum;
 
 class BartecServiceEnum
 {
